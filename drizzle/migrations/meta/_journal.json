@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790426469921,
+      "tag": "0000_frontdesk_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790432685333,
+      "tag": "0001_protect_customer_conversations",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790433984258,
+      "tag": "0002_account_bound_customer_bookings",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1790434617733,
+      "tag": "0003_restrict_vendor_ownership_function",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1790438315313,
+      "tag": "0004_two_sided_app_billing",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1790438325869,
+      "tag": "0005_schedule_daily_ai_charge",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1790439054858,
+      "tag": "0006_global_locations_currency",
+      "breakpoints": true
+    }
+  ]
+}
